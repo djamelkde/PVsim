@@ -21,10 +21,12 @@ variations des conditions climatiques.
 - Qt 5.4.1 (MSVC 2012 32bit).
 - C++
 
-## Some Screenshots
-![img connection](screenshots/Capture1.png)
-![img connection](screenshots/Capture2.png)
-![img connection](screenshots/Capture3.png)
+### Some Screenshots
+![Screenshot](screenshots/Capture1.png)
+
+![Screenshot](screenshots/Capture2.png)
+
+![Screenshot](screenshots/Capture3.png)
 
 ## Contributing
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
