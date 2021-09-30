@@ -17,13 +17,12 @@ variations des conditions climatiques.
 ### Dependencies:
 - Qt 5.4.1 (MSVC 2012 32bit).
 - C++
-- [Ganache](http://truffleframework.com/ganache/)
 
 ## Some Screenshots
 
-![Screenshot](screenshots/capture1.png)
-![Screenshot](screenshots/capture2.png)
-![Screenshot](screenshots/capture3.png)
+![screenshot](screenshots/capture1.png)
+![screenshot](screenshots/capture2.png)
+![screenshot](screenshots/capture3.png)
 
 ## Contributing
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
