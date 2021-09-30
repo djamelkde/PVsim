@@ -22,11 +22,11 @@ variations des conditions climatiques.
 - C++
 
 ### Some Screenshots
-![Screenshot](screenshots/Capture1.png)
+![Screenshot](screenshots/Capture1.PNG)
 
-![Screenshot](screenshots/Capture2.png)
+![Screenshot](screenshots/Capture2.PNG)
 
-![Screenshot](screenshots/Capture3.png)
+![Screenshot](screenshots/Capture3.PNG)
 
 ## Contributing
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
