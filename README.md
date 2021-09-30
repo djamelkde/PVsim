@@ -14,6 +14,7 @@ panneaux solaires disponibles sur le marché, ainsi que la création de nouveaux
 spécifiques, la possibilité de modifier les dimensions du système solaire reflété par le
 nombre de panneaux en série et en parallèle ainsi que le choix entre plusieurs modèles de
 variations des conditions climatiques.
+
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ### Dependencies:
