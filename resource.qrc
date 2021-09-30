@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="cell">img/cell.png</file>
+        <file alias="delete">img/delete.png</file>
+        <file alias="icon">img/ph.png</file>
+    </qresource>
+</RCC>
