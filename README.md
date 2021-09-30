@@ -1,5 +1,7 @@
 # Photovoltaic Simulation Platform (PVSP)
 
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Photovoltaic Simulation Platform (PVSP) est une plateforme de test et de simulation
 pour les systèmes photovoltaïques et les méthodes MPPT utilisées pour l’optimisation de
 puissance dans ces derniers.
@@ -14,8 +16,6 @@ panneaux solaires disponibles sur le marché, ainsi que la création de nouveaux
 spécifiques, la possibilité de modifier les dimensions du système solaire reflété par le
 nombre de panneaux en série et en parallèle ainsi que le choix entre plusieurs modèles de
 variations des conditions climatiques.
-
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ### Dependencies:
 - Qt 5.4.1 (MSVC 2012 32bit).
