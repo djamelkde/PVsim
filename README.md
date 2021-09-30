@@ -19,9 +19,12 @@ variations des conditions climatiques.
 - C++
 - [Ganache](http://truffleframework.com/ganache/)
 
-## Setup
+## Some Screenshots
 
-![Alt text](screenshots/capture1.png?raw=true "")
-![Alt text](screenshots/capture2.png?raw=true "")
-![Alt text](screenshots/capture3.png?raw=true "")
+![Screenshot](screenshots/capture1.png)
+![Screenshot](screenshots/capture2.png)
+![Screenshot](screenshots/capture3.png)
 
+## Contributing
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
+If you find any issue just put it in the repository issue section, thank you.
